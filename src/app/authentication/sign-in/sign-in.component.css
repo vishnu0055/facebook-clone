@@ -1,0 +1,115 @@
+.title{
+	font-family: SFProDisplay-Regular,Arial, Helvetica, sans-serif;
+    font-size:28px;
+	font-weight: normal;
+	line-height: 32px;
+}
+.logo{
+	height:106px;
+	margin:-28px;
+}
+.login-form-container{
+	height:315.828px;
+	width:396px;
+	padding-top:10px;
+	padding-bottom:24px;
+	padding:10px 16px 24px 16px;
+	background-color: white;
+	border-radius: 8px;
+	margin-top: 40px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+}
+.flex-container{
+	display:flex;
+	justify-content: center;
+}
+.parent-container{
+	padding-top: 92px;
+}
+.logo-container{
+	padding-top:112px;
+	padding-bottom:16px;
+
+}
+.logo-parent-container{
+	padding-right: 32px;
+	width:548px;
+}
+.input{
+	padding:14px 16px;
+	width:330px;
+	height:22px;
+    border:1px solid #dddfe2;
+	color:#1d2129;
+	font-size:17px;
+	border-radius: 6px;
+	outline: none;
+	background:white;
+}
+.email-phone:focus{
+	border-color: #1877f2 !important;
+	box-shadow: 0 0 0 2px #e7f3ff;
+	caret-color: #1877f2;
+}
+.email-phone-container .password-container{
+	padding-top:6px; 
+	padding-bottom: 6px;
+}
+.login{
+	background-color: #1877f2;
+	height:48px;
+	width: 100%;
+	border:none;
+	border-radius: 6px;
+	font-size:20px;
+	color:#fff;
+	font-weight: bold;
+}
+.login-container{
+    padding-top: 6px;
+}
+.forget-password-container{
+	margin-top: 16px;
+	text-align: center;
+}
+.forget-password{
+	color:#1877f2;
+	font-size: 14px;
+	font-weight: 500;
+	cursor: pointer;
+}
+.forget-password:hover{
+	text-decoration: underline;
+}
+.hr-line{
+	border-bottom: 1px solid #dadde1;
+	margin-bottom:20px;
+	margin-top: 20px;
+}
+.create-new-account{
+	background-color: #42b72a;
+	width:193px;
+	font-weight: bold;
+	height:48px;
+	border-radius: 6px;
+	font-size: 17px;
+	border: none;
+	color: white;
+}
+.new-account-container{
+	text-align:center;
+
+}
+.create-page-container{
+	margin-top:28px;
+	text-align: center;
+	color:#1c1e21;
+	font-size:14px;
+}
+.create-page{
+	font-weight: bold;
+}
+.create-page:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}
